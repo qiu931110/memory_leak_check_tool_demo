@@ -1,0 +1,5 @@
+﻿  neicun_leak.cpp
+d:\users\turing\desktop\learning\neicun_leak\neicun_leak\neicun_leak\neicun_leak.cpp(9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\users\turing\desktop\learning\neicun_leak\neicun_leak\neicun_leak\neicun_leak.cpp(9): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+d:\users\turing\desktop\learning\neicun_leak\neicun_leak\neicun_leak\neicun_leak.cpp(27): warning C4326: “main”的返回类型应为“int”而非“void”
+  neicun_leak.vcxproj -> D:\Users\Turing\Desktop\learning\neicun_leak\neicun_leak\Debug\neicun_leak.exe
